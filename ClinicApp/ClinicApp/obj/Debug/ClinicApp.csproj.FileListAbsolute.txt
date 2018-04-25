@@ -1,0 +1,9 @@
+D:\20142\Final\Try\Final\ClinicApp\ClinicApp\bin\Debug\ClinicApp.exe.config
+D:\20142\Final\Try\Final\ClinicApp\ClinicApp\obj\Debug\ClinicApp.csprojResolveAssemblyReference.cache
+D:\20142\Final\Try\Final\ClinicApp\ClinicApp\obj\Debug\ClinicApp.Form1.resources
+D:\20142\Final\Try\Final\ClinicApp\ClinicApp\obj\Debug\ClinicApp.Properties.Resources.resources
+D:\20142\Final\Try\Final\ClinicApp\ClinicApp\obj\Debug\ClinicApp.csproj.GenerateResource.Cache
+D:\20142\Final\Try\Final\ClinicApp\ClinicApp\bin\Debug\ClinicApp.exe
+D:\20142\Final\Try\Final\ClinicApp\ClinicApp\bin\Debug\ClinicApp.pdb
+D:\20142\Final\Try\Final\ClinicApp\ClinicApp\obj\Debug\ClinicApp.exe
+D:\20142\Final\Try\Final\ClinicApp\ClinicApp\obj\Debug\ClinicApp.pdb
